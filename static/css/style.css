@@ -1,3 +1,6 @@
-.col-md-5 img {
+.col-12 img {
     width: 100%;
+}
+img {
+    border-radius: 10px;
 }
