@@ -3,3 +3,5 @@
 ## Usage of The Flask Framework
 - Returning HTML code from a Flask function
 - Template inheritence
+- Iterating over json data
+- Using if statements inside HTML
