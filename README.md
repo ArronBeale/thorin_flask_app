@@ -5,3 +5,4 @@
 - Template inheritence
 - Iterating over json data
 - Using if statements inside HTML
+- Advanced routing
